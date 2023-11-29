@@ -1,4 +1,4 @@
-package fr.diginamic.demospring;
+package fr.diginamic.demospring.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
